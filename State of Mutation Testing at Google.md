@@ -50,7 +50,3 @@ The tool used is named Critique. It is an automated tool integrated in the devel
 
 ### How it works  
 To minimize the number of mutant, Google is using heuristics to filter un-interesting mutant. The systems is using the AST of the code. The heuristics is then trying to find ```arid``` node in the AST (e.g non-intersiting node) multiple rules which are language specific.  
-
-#### Arid Nodes  
-
-Heuristics are used todsf 
